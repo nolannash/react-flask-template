@@ -30,6 +30,7 @@ $ # the -L argument limits the depth at which we look into the directory structu
     ├── app.py
     ├── config.py
     ├── migrations
+    |-- UPLOADS_FOLDER
     ├── models.py
     └── seed.py
 ```
